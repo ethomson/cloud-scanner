@@ -2,7 +2,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/cloud-scanner.svg)](https://pypi.org/project/cloud-scanner/)
 
-**Note: This library was developed by the Microsoft Commercial Software Engineering team as a tool for the Open Source community to use and contribute to as they see fit. Use at your own risk!**
+**Note:** this is a fork of the [Microsoft Cloud Scanner](https://github.com/Microsoft/cloud-scanner), originally built by the Microsoft Commercial Software Engineering team.  This project was forked for demonstration purposes only; please contribute changes back to the original project.
 
 ## Developer Documentation
 [Read the API docs](https://microsoft.github.io/cloud-scanner/)
